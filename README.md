@@ -1,6 +1,13 @@
 # balanceo-de-reacciones
+
+
 #■	Nombre del proyecto
+#balanceo de reacciones qumica  de doble sustitucion 
+
+
 #■	Objetivos
+
+
 #■	Problema que resuelve
 #■	Mención sobre el (los) lenguaje(s) utilizado(s) y argumentación sobre la elección de este lenguaje. 
 #■	Descripción de lo que está simulando, analizando o demostrando.
