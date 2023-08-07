@@ -1,0 +1,63 @@
+elemento,carga,pm,nombre,subindice
+H,1,1.0079,Hidrógeno / Ácido,1
+Li,1,6.941,Litio ,1
+Na,1,22.99,Sodio ,1
+K,1,39.098,Potasio ,1
+Rb,1,85.468,Rubidio ,1
+Cs,1,132.91,Cesio ,1
+Be,2,9.0122,Berilio,2
+Mg,2,24.305,Magnesio,2
+Ca,2,40.078,Calcio,2
+Sr,2,87.62,Estroncio,2
+Ba,2,137.33,Bario ,2
+B,3,10.811,Boro ,3
+Al,3,26.982,Aluminio ,3
+Ga,3,69.723,Galio ,3
+In,3,114.82,Indio ,3
+As,3,74.922, Arsénico,3
+Ce+3,3,140.12, Cerio II,3
+Br+3,3,79.904,Bromo III,3
+I+3,3,126.9,Yodo II,3
+P+3,3,30.974, Fosforo,3
+NH4 +1,1,,Amonio ,1
+PH4+1,1,,Fosfonio ,1
+V+3,3,50.942, Vanadio,3
+Sc+3,3,44.956,Escandio ,3
+Y+3,3,88.906,Ytrio ,3
+Sn+4,4,118.71, Estaño IV,4
+Pb+4,4,207.2, Plomo IV,4
+As+5,5,74.922,Arsénico ,5
+Hg +,1,200.59,Mercurio I ,1
+Hg +2,1,200.59,Mercurio II,1
+Tl+1,1,204.38,Talio ,1
+Tl+2,2,204.38, Talio II,2
+Ti+3,3,204.38, Titanio III,3
+Bi+3,3,208.98,Bismuto III,3
+Bi+5,5,208.98, Bismuto V,5
+Au+1,1,196.97,Oro I ,1
+Au+3,3,196.97, Oro III,3
+Ag+1,1,107.87,Plata ,1
+Cu+1,1,,Cobre I,1
+Cu+2,2,63.546,Cobre II ,2
+Cr+2,2,51.996,Cromo II,2
+Cr+3,3,51.996, Cromo III,3
+Ni+2,2,58.693,Níquel II,2
+Zn+2,2,65.38,Zinc,2
+Cd+2,2,112.41,Cadmio ,2
+Sn+2,2,118.71,Estannoso ,2
+Pd+2,2,106.42, Paladio,2
+Co+2,2,58.933,Cobalto II,2
+Co+3,3,58.933, Cobalto III,3
+Hg+,1,200.59, Mercurio I,1
+Hg+2,2,200.59, Mercurio II,2
+Pb+2,2,207.2,Plomo II,2
+Pb+5,5,207.2, Plomo V,5
+Mn+,1,54.938, manganeso I,1
+Mn+2,2,54.938, manganeso II,2
+Fe+2,2,55.845, Fierro II,2
+Fe+3,3,55.845, Fierro III,3
+Pt+2,2,195.08, Platino II,2
+Pt+4,4,195.08, Platino II,4
+Ni+3,3,58.693, Níquel III,3
+Sb+3,3,121.76,Antimonio III,3
+Sb+5,5,121.76,Antimonio V  ,5
