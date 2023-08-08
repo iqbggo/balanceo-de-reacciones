@@ -37,7 +37,19 @@
 #     -creditos
 
 #■	Ejemplo básico de funcionamiento general, instrucciones de ejecución y uso.
+# en la aplicacion actualmente  se realiza estas actividades
+#  1 se selecionan los iones que componen  el primer compuesto  y el segundo compuesto en la reacion
+#  2 se plantea la  racion primero reactivos y despues productos
+#  3 se colocan los numeros de oxidacion  de cada un ol de los iones tanto en reactivos y productos
+#  4 se colocan los subindices para balcear cargas 
+#  5 se colocan los iones de reaccion  para banceo
+#  6 se indicanlos valores colos que cada ion inicia el balanceo   
+
 
 #■	Tema que ayuda a comprender
+# el tema que ayuda o pretende ayudar es el balanceo por inspedcion de una reaccion quimica
+
+
 
 #■	Justificación de cómo ayuda al alumno a comprender el tema
+# e lporque de la eleccion  de del tema, es porque deacuerdo a la experiencia es uno de los temas con mayor problematica en la asignatura
