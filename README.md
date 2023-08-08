@@ -52,4 +52,8 @@
 
 
 #■	Justificación de cómo ayuda al alumno a comprender el tema
-# e lporque de la eleccion  de del tema, es porque deacuerdo a la experiencia es uno de los temas con mayor problematica en la asignatura
+# el porque de la eleccion  de del tema, es porque deacuerdo a la experiencia es uno de los temas con mayor problematica en la asignatura
+
+
+#     nota
+# el proyecto llego a entre un 30 y 40 % del producto final deseado, pero al 100 % de lo planteado en un inicio, se seguira trabajando en el, dentro del tiempo disponible en los proximos meses.
